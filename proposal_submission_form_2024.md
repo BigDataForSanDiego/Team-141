@@ -43,7 +43,7 @@
 
 #### Team Coordinator GitHub Username: Anuujints
 
-#### Team Members: Anuujin Tsedenbal -- Anuujints; Alisha Gaikwad -- AlishaGaikwad; Raymond Luong -- Rainbowrollsz
+#### Team Members: Anuujin Tsedenbal -- Anuujints; Alisha Gaikwad -- AlishaGaikwad; Raymond Luong -- Rainbowrollsz; Ezel Patlan -- patlan001
 
 
 
