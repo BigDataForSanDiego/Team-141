@@ -43,7 +43,7 @@
 
 #### Team Coordinator GitHub Username: patla001
 
-#### Team Members: Anuujin Tsedenbal -- Anuujints
+#### Team Members: Anuujin Tsedenbal -- Anuujints; Alisha Gaikwad -- AlishaGaikwad; Raymond Luong -- Rainbowrollsz
 
-#### Team Members: Alisha Gaikwad -- AlishaGaikwad
+
 
