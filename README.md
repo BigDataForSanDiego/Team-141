@@ -4,7 +4,7 @@
 
 #### Team Name: YTL-LTY    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 
 ##### We will solve the problem related to patient satisfaction and managing my health.
 
