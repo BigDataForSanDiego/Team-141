@@ -5,8 +5,8 @@
 #### Team Name: YTL-LTY    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### Our team is playful and mysterious
-##### We will solve the problem related to mischievous toddler
+
+##### We will solve the problem related to patient satisfaction and managing my health.
 
 
 #### A visual
