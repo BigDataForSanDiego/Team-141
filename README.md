@@ -25,7 +25,7 @@
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 - [ ] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
-- [X] Patient satisfaction
+- [ ] Patient satisfaction
 > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
 - [ ] New patient experience
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
